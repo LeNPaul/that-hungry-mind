@@ -2,7 +2,7 @@
 title: that hungry mind
 email: l.nguyen.paul.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  A website where I post about things that I find interesting.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: Paululele
