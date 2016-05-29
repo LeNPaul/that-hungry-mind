@@ -6,13 +6,7 @@ description: One of my favourite scientists
 ---
 Of all the famous scientists out there, my favourite scientist is Richard Feynmann. Although there are many other famous scientists (in particular physicists) that are interesting and inspiring, Richard Feynmann is one that stands out to me due to his charisma, and public life. Many of the things that he has said regarding science are things that I strongly agree with.
 
->Testoinasdfkjadsnfkjsadfdsa
->asdfasfkasmfbkadjsbfkajsddbfd
-
 For example, in a talk that he gave, "The Value of Science", he mentions three main values that science has to humans. The first two are the obvious ones: science is useful in the technologies that it gives us, and in the enjoyment that we get as we explore the mysteries of the universe, and how it inspires us to continue.
-
-testingdd
-=========
 
 The third value that he mentions is the value of how science always deals with ignorance, doubt, and uncertainty, and how this experience is of great importance to humans. He goes on to say:
 
