@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /poetry/
-title: food
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+title: menu
+description: A collection of things I find interesting.
 ---
 
 <ul class="post-list">
