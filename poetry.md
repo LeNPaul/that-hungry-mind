@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /poetry/
-title: things that interest me
+title: food
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 
