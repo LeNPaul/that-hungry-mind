@@ -1,7 +1,9 @@
 ---
-layout: archive
+layout: home
 permalink: /
 title: "Things that interest me"
+image:
+  feature: home.jpg
 ---
 
 <div class="tiles">
