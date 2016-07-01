@@ -1,7 +1,13 @@
-# main links links
-main:
-  - title: "Projects"
-    url:
+# Site navigation links
 
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/
+- title:
+  url:
+  excerpt:
+  image:
+
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+
+- title: About
+  url: http://mademistakes.com
