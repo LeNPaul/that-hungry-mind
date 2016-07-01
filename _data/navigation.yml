@@ -5,9 +5,22 @@
   excerpt:
   image:
 
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+- title: Journal
+  url: /journal/
+  excerpt: "Things that interest me"
+  image: journal.jpg
+
+- title: Projects
+  url: /projects/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever"
+  image: projects.jpg
 
 - title: About
-  url: http://mademistakes.com
+  url: /about/
+  excerpt:  "Learn more about what this site is all about"
+  image: about.jpg
+
+- title: Contact
+  url: /contact/
+  excerpt: "Where you can find me around the web"
+  image: contact.jpg
