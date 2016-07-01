@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Things that interest me"
 ---
 
 <div class="tiles">
