@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Things that interest me"
+title: "Home"
 image:
   feature: home.jpg
 ---

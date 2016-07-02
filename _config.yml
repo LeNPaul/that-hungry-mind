@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: "Paul Le"
+  email: "l.nguyen.paul@gmail.com"
+  twitter: "paululele"
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: "I like to learn"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
