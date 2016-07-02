@@ -7,8 +7,8 @@ tags: [physics]
 comments: true
 ads: false
 image:
-  feature: millennium.jpg
-  teaser: millennium-teaser.jpg
-  credit: Max-Planck Institute for Astrophysics
+  feature: exoplanet.png
+  teaser: exoplanet-teaser.jpg
+  credit: NASA
   creditlink: https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/
 ---

@@ -13,7 +13,9 @@ image:
   creditlink: https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/
 ---
 
-Not many people realize how close of a relationship computer programming has to physics.
+Not many people realize how close of a relationship computer programming has to physics, especially astrophysics.
+
+Unlike other disciplines in science where there is a strong emphasis on performing experiments, astrophysicists do not have the luxury of doing so, due to the nature of what they study. Structures in the universe often evolve on timescales on the order of millions of years.
 
 The following video is a good example of an applications of computer programming to astrophysics:
 
