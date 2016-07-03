@@ -5,6 +5,7 @@ categories: projects
 modified: 2016-06-12T16:28:11-04:00
 tags: [physics]
 comments: true
+read_time: true
 featured: true
 ads: false
 image:
