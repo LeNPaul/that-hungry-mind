@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "How Exoplanets are Discovered"
-categories: Projects
+categories: projects
 modified: 2016-06-12T16:28:11-04:00
 tags: [physics]
 comments: true
