@@ -3,7 +3,7 @@ layout: archive
 title: "Projects"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: "A collection of thoughts, inspiration, mistakes, and other minutia."
+excerpt: "Things I've designed, illustrated, developed, coded, and whatever."
 tags: []
 image:
   feature:

@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Home"
+title: "home"
 image:
   feature: home.jpg
 ---
