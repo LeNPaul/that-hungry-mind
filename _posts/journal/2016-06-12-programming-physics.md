@@ -14,7 +14,8 @@ image:
   credit: AVL at NCSA
   creditlink: https://svs.gsfc.nasa.gov/10687
 ---
-#### There is an interesting history behind the relationship between programming and physics, at least in astrophysics and nuclear physics.
+
+**There is an interesting history behind the relationship between programming and physics, at least in astrophysics and nuclear physics.**
 
 In the late 1950’s when computers were first starting to become more prominent in academic research, many physicists saw the potential that computers had in doing calculations: computers were able to perform calculations more efficiently than a regular human could, and without getting tired.
 
