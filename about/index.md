@@ -19,7 +19,7 @@ I'm a recent university graduate in physics, and I love to learn. I spend my tim
 I started this website as a way to give back to people, and help other people learn.
 
 <figure class="third">
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<a href="http://placehold.it/1200x600.gif"><img src="minimalist.jpg"></a>
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
 </figure>

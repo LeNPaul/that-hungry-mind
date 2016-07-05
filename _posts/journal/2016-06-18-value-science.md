@@ -14,6 +14,7 @@ image:
   credit: Richard Feynman
   creditlink:
 ---
+
 One of the greatest minds of the past century, Richard Feynman embodied what it meant to be curious. His curiosity, combined with his insatiable appetite for answers led him to win the Nobel Prize in Physics in 1965, among many other achievements. Although known widely as a brilliant scientist, he was also a great communicator, and advocator of science.
 
 In a talk that he gave, <a href="http://www.math.ucla.edu/~mwilliams/pdf/feynman.pdf">"The Value of Science"</a>, he mentions three main values that science has to humans. The first two are the obvious ones: science is useful in the technologies that it gives us, and in the enjoyment and inspiration that we get as we explore the mysteries of the universe.
