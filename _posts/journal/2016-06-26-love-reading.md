@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Why I Love Reading"
+subtitle: "It's Not What You Think"
 categories: journal
 modified: 2016-06-12T16:28:11-04:00
 tags: [personal]

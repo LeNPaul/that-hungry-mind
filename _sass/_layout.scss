@@ -151,6 +151,10 @@
 	.page-title {
 		@include fill-parent;
 	}
+	.subtitle {
+		font-family: $heading-font;
+		font-weight: bold;
+	}
 	@at-root {
 		.page-content {
 			@include fill-parent;
