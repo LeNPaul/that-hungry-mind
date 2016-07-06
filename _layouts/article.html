@@ -10,7 +10,7 @@ layout: default
 		{% include breadcrumbs.html %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
-			<p class="subtitle">{% if page.subtitle %}{{ page.subtitle }} - {% endif %}<i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+			<p class="subtitle">{% if page.subtitle %}{{ page.subtitle }} - {% endif %}{% if page.read_time %}<i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}{% endif %}</p>
 		</div>
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">

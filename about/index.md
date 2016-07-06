@@ -35,3 +35,9 @@ I started this website as a way to give back to people, and help other people le
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
 </figure>
+
+<div class="tiles">
+{% for post in site.posts %}
+	{% include post-list.html %}
+{% endfor %}
+</div><!-- /.tiles -->
