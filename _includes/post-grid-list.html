@@ -10,5 +10,5 @@
 {% if post.date %}
   <p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
 {% endif %}
-<p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+<p class="post-excerpt" itemprop="description">{{ post.content | strip_html | truncate: 160 }}<a href="{{ post.url }}">Read more</a></p>
 </div>
