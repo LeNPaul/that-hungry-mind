@@ -12,29 +12,19 @@ share: false
 ads: false
 ---
 
-## Hi there! I'm Paul
+#### Hi there! I'm Paul
 
-I'm a recent university graduate in physics, and I love to learn. I spend my time reading, programming, and learning whatever comes across my way that interests me.
+I'm a recent university graduate in physics, and I love to learn. I spend my time reading, programming, and learning whatever comes across my way that interests me. You can find me around the web below:
 
-I started this website as a way to give back to people, and help other people learn.
+<li style="display: inline;">
+  <a href="mailto:l.nguyen.paul@gmail.com"><i class="fa fa-envelope fa-2x" aria-hidden="true" style="padding:10px;"></i></a>
+  <a href="https://twitter.com/paululele"><i class="fa fa-twitter fa-2x" aria-hidden="true" style="padding:10px;"></i></a>
+  <a href="https://instagram.com/paululele"><i class="fa fa-instagram fa-2x" aria-hidden="true" style="padding:10px;"></i></a>
+  <a href="https://linkedin.com/in/lenpaul"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true" style="padding:10px;"></i></a>
+  <a href="https://github.com/lenpaul"><i class="fa fa-github-square fa-2x" aria-hidden="true" style="padding:10px;"></i></a>
+</li>
 
-<figure class="third">
-	<a href="http://placehold.it/1200x600.gif"><img src="minimalist.jpg"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-</figure>
-
-<figure class="third">
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-</figure>
-
-<figure class="third">
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-</figure>
+I started this website as a way to give back to people, and help other people learn. Below, you can find an archive of all the posts that I have written:
 
 <div class="tiles">
 {% for post in site.posts %}
