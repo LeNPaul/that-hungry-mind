@@ -6,8 +6,8 @@ image:
   feature: home.jpg
 ---
 <div style="clear: both;">
-  <h6 style="font-size:15px; float:left">FEATURED ITEMS</h6>
-  <h6 style="width:88%;height:4px;background:black;float:right;"> </h6>
+  <h6 style="font-size:15px; float:left;margin:0px;border:0px;padding:0px">FEATURED ITEMS</h6>
+  <h6 style="width:100%;height:2px;background:black;float:right;margin-top:0px;"> </h6>
 </div>
 
 <div class="tiles">
@@ -17,10 +17,10 @@ image:
 {% endfor %}
 </div>
 
-<h6 style="width:100%;height:4px;background:black;float:right;"> </h6>
+<h6 style="width:100%;height:2px;background:black;float:right;margin-top:0px"> </h6>
 
 <div class="tiles">
 {% for post in site.posts %}
-	{% include post-grid-list.html %}
+	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
