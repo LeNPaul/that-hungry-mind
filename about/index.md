@@ -5,7 +5,7 @@ date:
 modified:
 excerpt: "Hi there! I'm Paul"
 image:
-  feature:
+  feature: about-me.jpg
   teaser:
   thumb:
 share: false

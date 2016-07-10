@@ -17,7 +17,10 @@ image:
 {% endfor %}
 </div>
 
-<h6 style="width:100%;height:2px;background:black;float:right;margin-top:0px"> </h6>
+<div style="clear: both;">
+  <h6 style="font-size:15px; float:left;margin:0px;border:0px;padding:0px">RECENT ITEMS</h6>
+  <h6 style="width:100%;height:2px;background:black;float:right;margin-top:0px;"> </h6>
+</div>
 
 <div class="tiles">
 {% for post in site.posts %}
