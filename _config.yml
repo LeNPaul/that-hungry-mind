@@ -5,7 +5,7 @@ description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: stock.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: 
 feed:
   path: atom.xml
 
@@ -30,9 +30,10 @@ owner:
   email: "l.nguyen.paul@gmail.com"
   twitter: "paululele"
   google:
+    plus:
     ad-client:
     ad-slot:
-  bio: "I like to learn"
+  bio: "Just sharing some brain food, enjoy!"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: Paul
 
