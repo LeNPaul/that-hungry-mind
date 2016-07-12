@@ -8,7 +8,7 @@ tags: [personal]
 comments: true
 read_time: true
 featured: true
-ads: false
+ads: true
 image:
   feature: read.jpg
   teaser: read-teaser.jpg
