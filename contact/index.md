@@ -5,7 +5,7 @@ date:
 modified:
 excerpt: "How to contact me"
 image:
-  feature: contact-me.jpg
+  feature: #contact-me.jpg
   teaser:
   thumb:
 share: false
