@@ -25,6 +25,9 @@
   .post-teaser {
     position: relative;
     display: block;
+    img{
+      border-radius: 4px;
+    }
     &:after {
       content: '';
       position: absolute;

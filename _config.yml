@@ -5,7 +5,8 @@ description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: stock.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url: #"http://www.thathungrymind.com"
+share-url: "http://www.thathungrymind.com"
+url: 
 feed:
   path: atom.xml
 
