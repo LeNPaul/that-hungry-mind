@@ -1,9 +1,9 @@
 ---
-layout: article
+layout: archive
 title: "About"
 date:
 modified:
-excerpt: "Hi there! I'm Paul"
+excerpt:
 image:
   feature: #about-me.jpg
   teaser:
