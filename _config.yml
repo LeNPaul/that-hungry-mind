@@ -1,66 +1,23 @@
-# Site wide configuration
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           none
 
-title: "thathungrymind | my brain food"
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: stock.jpg # 400x250 px default teaser image used in image archive grid
-locale: en
-share-url: "http://www.thathungrymind.com"
-url: 
-feed:
-  path: atom.xml
+# Setup
+title:               "thathungrymind"
+tagline:             "my brain food"
+description:         "thathungrymind | my brain food"
+url:                 #http://lanyon.getpoole.com
+baseurl:             #''
+gems:                [jekyll-paginate]
+paginate:            5
 
-# Jekyll configuration
+# About/contact
+author:
+  name:              "Paul Le"
+  url:               "https://twitter.com/paululele"
+  email:             "l.nguyen.paul@gmail.com"
+  twitter:           "paululele"
 
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: rouge
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
-
-# Site owner
-owner:
-  name: "Paul Le"
-  email: "l.nguyen.paul@gmail.com"
-  twitter: "paululele"
-  google:
-    plus:
-    ad-client:
-    ad-slot:
-  bio: "Just sharing some brain food, enjoy!"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname: Paul
-
-
-include:
-  - .htaccess
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+# Custom vars
+share-url:           "https://www.thathungrymind.com"

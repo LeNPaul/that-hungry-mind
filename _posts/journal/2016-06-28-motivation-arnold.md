@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Motivating Yourself When You Want to Give Up"
 categories: journal
 modified: 2016-06-12T16:28:11-04:00
