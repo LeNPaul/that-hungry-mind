@@ -41,13 +41,16 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif; /*"Helvetica Neue", Helvetica, Arial, sans-serif; 'Crimson Text', serif;*/
+  font-family: "PT Serif", Georgia, "Times New Roman", serif; /*"Helvetica Neue", Helvetica, Arial, sans-serif; "Crimson Text", serif;*/
+}
+
+h1 {
+  font-size: 1.625rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Quattrocento Sans', sans-serif; /*"Helvetica Neue", Helvetica, Arial, sans-serif; "PT Sans", Helvetica, Arial, sans-serif;*/
   font-weight: 700;
-  font-size: 1.625rem;
   color: #313131;
   /*letter-spacing: -.025rem;*/
 }
@@ -111,6 +114,7 @@ ul {
   color: #505050;
 }
 .masthead-title a {
+  font-size: 1.625rem;
   color: #505050;
 }
 
