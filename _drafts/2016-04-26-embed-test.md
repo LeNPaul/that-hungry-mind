@@ -5,6 +5,8 @@ categories: journal
 tags: [programming]
 ---
 
+<script src="https://gist.github.com/LeNPaul/e4a87bba80cc97045848bae3b6d89aa2.js"></script>
+
 <a href="https://www.goodreads.com/book/show/1202.Freakonomics" style="float: left; padding-right: 20px"><img border="0" alt="Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)" src="https://d.gr-assets.com/books/1327909092m/1202.jpg" /></a><a href="https://www.goodreads.com/book/show/1202.Freakonomics">Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</a> by <a href="https://www.goodreads.com/author/show/798.Steven_D_Levitt">Steven D. Levitt</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/1656734836">3 of 5 stars</a><br /><br />
 
