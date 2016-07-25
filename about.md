@@ -3,12 +3,7 @@ layout: page
 title: About
 ---
 
-Hi there! I'm Paul Le. I am a recent university graduate in physics, and I love to learn. I started this website as a way to give back to people, and help other people learn.
-
-<div class="page-image">
-  <img src="{{ site.url }}/images/about.jpg">
-  {% if page.image.credit %}{% include image-credit.html %}{% endif %}
-</div>
+Hi there! I'm Paul Le. I am a recent university graduate in physics, and I love to learn. I started this website as a way to give back to people, and help other people learn as well.
 
 I spend my time reading, programming, and learning whatever comes across my way that interests me. You can see some of the things I'm working on over at <a href="https://github.com/LeNPaul">GitHub</a> and <a href="http://codepen.io/LeNPaul/">Codepen</a>.
 
