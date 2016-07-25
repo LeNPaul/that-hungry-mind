@@ -2,16 +2,12 @@
 layout: post
 title: "Motivating Yourself When You Want to Give Up"
 categories: journal
-modified: 2016-06-12T16:28:11-04:00
 tags: [motivation]
-comments: true
-read_time: true
-ads: false
 image:
   feature: arnold.jpg
   teaser: arnold-teaser.jpg
   credit: Arnold Schwarzenegger
-  creditlink:
+  creditlink: "http://www.schwarzenegger.com/fitness"
 ---
 
 Not many people think of <a href="https://en.wikipedia.org/wiki/Arnold_Schwarzenegger">Arnold Schwarzenegger</a> when they think of inspiring people.

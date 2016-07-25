@@ -4,7 +4,7 @@ title: "The Values and Contributions of Science to Society"
 categories: journal
 tags: [physics]
 image:
-  feature: test.jpg
+  feature: feynman.jpg
   teaser: feynman-teaser.jpg
   credit: Richard Feynman
   creditlink:
