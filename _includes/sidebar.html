@@ -8,7 +8,7 @@
     <p>{{ site.description }}</p>
   </div>-->
 
-  <div class="sidebar-item"><img class="icon" src="{{ site.url }}/images/icons/human-brain.svg"></div>
+  <div class="sidebar-item"><!--<img class="icon" src="{{ site.url }}/images/icons/human-brain.svg">--></div>
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
@@ -34,6 +34,7 @@
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/contact.html">Contact</a>-->
 
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/archive.html">Writing</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/tags.html">Topics</a>
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/about.html">About</a>
 
     <div class="sidebar-nav-item" style="display:inline">
