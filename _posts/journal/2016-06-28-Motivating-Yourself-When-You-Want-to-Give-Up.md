@@ -16,7 +16,7 @@ Usually, his name brings up associations with big name movies like Conan the Bar
 
 Although Arnold Schwarzenegger has had a seemingly eclectic life, what all of these ventures had in common was that they all required hard work, discipline, determination, and grit in order to achieve.
 
-They also all had a huge margin for failure.
+**They also all had a huge margin for failure.**
 
 Think about how many people want to hold a high position in government. How many people want to become famous actors. How many people want to achieve even just a good looking physique. In all of these ventures, the majority of people who want it end up failing, and never make it. Arnold has done it all.
 
@@ -54,6 +54,10 @@ Here is one quote from his speech that really resonates with me every time I rea
 
 >I always say don’t be afraid of failure, because how far can you really fall? You found out - to the ground. It’s right there. Now you know it isn’t anything that should scare you. You should be proud that you weren’t afraid - not embarrassed that you failed. You could have made excuses not to do it, but you didn’t. You knew it would be hard, and it would be uncomfortable, and it might be awkward - and you did it anyway. That’s courage.
 
-You just have to trust yourself to get back up again, and try again, over and over again until you succeed.
+**You just have to trust yourself to get back up again, and try again, over and over again until you succeed.**
 
 If we all stopped trying every time we fell over when we were first learning to walk, no one would be walking.
+
+*If you would like to read more, please follow my blog on Quora at <a href="https://hungryminds.quora.com/">Hungry Minds</a>. You can also follow me on Twitter if you would like to continue the conversation there!*
+
+<a href="https://hungryminds.quora.com/Motivating-Yourself-When-You-Want-to-Give-Up">Originally published on Quora</a>

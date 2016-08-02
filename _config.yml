@@ -7,10 +7,10 @@ permalink:           none
 title:               "thathungrymind"
 tagline:             "my brain food"
 description:         "thathungrymind | my brain food"
-url:                 "http://lenpaul.github.io/hungry-minds/"
-baseurl:             "http://lenpaul.github.io/hungry-minds/"
+url:                 "http://lenpaul.github.io"
+baseurl:             "/hungry-minds"
 gems:                [jekyll-paginate]
-paginate:            5
+paginate:            8
 
 # About/contact
 author:
