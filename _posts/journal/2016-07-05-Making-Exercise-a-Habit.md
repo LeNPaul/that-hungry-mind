@@ -50,7 +50,7 @@ Here are some more tips that you can follow to help you start and maintain your 
 
 2. Find something you enjoy. Exercise should not be a painful chore. The beset kind of exercise is one that you enjoy, such as playing a sport. A friend of mine once lost 60 pounds in a one year through dieting and playing squash.
 
-3. Check out this Quora page for more tips: What are good hacks and tips for exercise, fitness and working out?
+3. Check out this <a>Quora page</a> for more tips: What are good hacks and tips for exercise, fitness and working out?
 
 *If you would like to read more, please follow my blog on Quora at <a href="https://hungryminds.quora.com/">Hungry Minds</a>. You can also follow me on Twitter if you would like to continue the conversation there!*
 
