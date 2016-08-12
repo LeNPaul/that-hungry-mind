@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dealing with Information Overload, Part I"
+title: "Making Exercise a Habit"
 categories: journal
 tags: [productivity]
 image:
