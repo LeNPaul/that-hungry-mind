@@ -14,21 +14,21 @@ Like reading, exercising is a habit that many people wish they had, but never ge
 
 It goes without saying that exercise is important, not only for our general physical health, but for our mental well-being.
 
-Regular exercise has been shown to combat stress and anxiety, as well as improve our focus, memory, and imagination  [1]. In addition, regular exercise lowers our chances of developing diseases ranging from the common cold to heart disease, to cognitive decline and dementia later in life  [2].
+Regular exercise has been shown to combat stress and anxiety, as well as <a href="http://qz.com/592569/a-neuroscientist-says-theres-a-powerful-benefit-to-exercise-that-is-rarely-discussed/">improve our focus, memory, and imagination</a>. In addition, regular exercise lowers our chances of developing diseases ranging from the common cold to heart disease, to <a href="http://science.howstuffworks.com/life/exercise-happiness.htm">cognitive decline and dementia later in life</a>.
 
-I talked about the habit loop in a previous post, and how it can be applied to make reading a habit. Using that same idea, a habit of exercise can be created as well. For more on the habit loop, check out my post on Quora on how to make reading a habit.
+I talked about the habit loop in a previous post, and how it can be applied to make reading a habit. Using that same idea, a habit of exercise can be created as well. For more on the habit loop, check out my post on Quora on <a href="https://hungryminds.quora.com/How-to-Make-Reading-a-Habit">how to make reading a habit</a>.
 
 **Using the Habit Loop to Exercise More**
 
 Here is a strategy that uses the habit loop to build a habit of exercise:
 
-1. The Keystone Habit: Track all of your workouts in a notebook or app on your phone (I personally use Evernote), set a reminder to weigh yourself at least once a week. and take a progress picture of your body every week.
+1. **The Keystone Habit:** Track all of your workouts in a notebook or app on your phone (I personally use <a href="https://evernote.com">Evernote</a>), set a reminder to weigh yourself at least once a week. and take a progress picture of your body every week.
 
-2. The Cue: View your progress that you have tracked for yourself daily, put on your exercise gear, and walk out the door.
+2. **The Cue:** View your progress that you have tracked for yourself daily, put on your exercise gear, and walk out the door.
 
-3. The Routine: Set aside time to exercise regularly, and pick a simple exercise routine to start with, something that you enjoy doing (see the end of this post for some good routines to start on).
+3. **The Routine:** Set aside time to exercise regularly, and pick a simple exercise routine to start with, something that you enjoy doing (see the end of this post for some good routines to start on).
 
-4. The Reward: Within a few weeks, you should be seeing progress in your exercising, and feel more accomplished, happier, and confident.
+4. **The Reward:** Within a few weeks, you should be seeing progress in your exercising, and feel more accomplished, happier, and confident.
 
 It is important that you measure progress quantitatively, using numbers such as how many steps you take in a day, how far you are able to run without resting, or how much weight you are able to lift, rather than depending on the mirror to measure progress.
 
@@ -46,11 +46,11 @@ Some workouts call for 3–4 sessions a week. In the beginning, try to make it a
 
 Here are some more tips that you can follow to help you start and maintain your exercise habit:
 
-1. Pick a simple exercise routine. Lower your barrier to start, and make it so simple that you can’t avoid it. Going for a walk is a good start. Find a pedometer app on your phone, and track how many steps you take daily. Try to take more steps every day, even if it’s just one more step. A good resource for more serious routines can be found here.
+1. **Pick a simple exercise routine.** Lower your barrier to start, and make it so simple that you can’t avoid it. Going for a walk is a good start. Find a pedometer app on your phone, and track how many steps you take daily. Try to take more steps every day, even if it’s just one more step. A good resource for more serious routines can be found <a href="https://www.reddit.com/r/fitness/wiki/faq">here</a>.
 
-2. Find something you enjoy. Exercise should not be a painful chore. The beset kind of exercise is one that you enjoy, such as playing a sport. A friend of mine once lost 60 pounds in a one year through dieting and playing squash.
+2. **Find something you enjoy.** Exercise should not be a painful chore. The beset kind of exercise is one that you enjoy, such as playing a sport. A friend of mine once lost 60 pounds in a one year through dieting and playing squash.
 
-3. Check out this <a>Quora page</a> for more tips: What are good hacks and tips for exercise, fitness and working out?
+3. **Check out this Quora page for more tips:** <a href="https://www.quora.com/What-are-good-hacks-and-tips-for-exercise-fitness-and-working-out">What are good hacks and tips for exercise, fitness and working out?</a>
 
 *If you would like to read more, please follow my blog on Quora at <a href="https://hungryminds.quora.com/">Hungry Minds</a>. You can also follow me on Twitter if you would like to continue the conversation there!*
 
