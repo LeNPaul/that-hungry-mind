@@ -7,8 +7,8 @@ permalink:           none
 title:               "thathungrymind"
 tagline:             "my brain food"
 description:         "thathungrymind | my brain food"
-url:                 #"http://lenpaul.github.io"
-baseurl:             #"/hungry-minds"
+url:                 "http://lenpaul.github.io"
+baseurl:             "/hungry-minds"
 gems:                [jekyll-paginate]
 paginate:            8
 

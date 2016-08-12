@@ -18,7 +18,7 @@ Interestingly enough, the habit of tracking food consumption led to the habit of
 
 An important characteristic of many keystone habits is that they are often habits which depend on tracking and quantifying something that you are trying to improve on. It’s not hard to see how the above study could also be extended to other habits, another example being that of a graduate student who stopped her nail-biting habit in large part <a href="http://www.huffingtonpost.com/charles-duhigg/breaking-habits_b_1509783.html">by recording each time she bit her nails</a>.
 
-Here are some keystone habits that I personally practice myself in my own life, that I feel have the greatest impact:
+**Here are some keystone habits that I personally practice myself in my own life, that I feel have the greatest impact:**
 
 ### Journaling
 
@@ -49,3 +49,7 @@ Among the many obvious benefits of reading more books, reading has been shown to
 ### Conclusion
 
 It is always a good idea to pick only one habit to work on at a time. There will time to develop other habits, but if you try to do too many habits at a time, you will end up doing none of them. These keystones habits will inevitably lead to other good habits anyways, so it’s a good idea not to get too greedy in the beginning.
+
+*If you would like to read more, please follow my blog on Quora at <a href="https://hungryminds.quora.com/">Hungry Minds</a>. You can also follow me on Twitter if you would like to continue the conversation there!*
+
+<a href="https://hungryminds.quora.com/The-Importance-of-Keystone-Habits">Originally published on Quora</a>

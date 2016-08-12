@@ -5,7 +5,7 @@ categories: journal
 tags: [productivity]
 image:
   feature:
-  teaser: habit-loop-teaser.jpg
+  teaser: overload-teaser.png
   credit:
   creditlink:
 ---
